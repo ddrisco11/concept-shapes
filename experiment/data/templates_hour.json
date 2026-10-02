@@ -1,0 +1,102 @@
+[
+ {
+  "template": "The factory is running at {HOUR}, ready to begin its operations.",
+  "topic": "a factory"
+ },
+ {
+  "template": "The train left at {HOUR}.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The train was still moving at {HOUR}.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The train is still traveling at {HOUR}.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The train is moving at {HOUR}.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The mining operation was scheduled to begin at {HOUR}.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "The drilling was scheduled for {HOUR}.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "The fire started around {HOUR}, and the fire department was quickly dispatched to the scene.",
+  "topic": "a fire in a city"
+ },
+ {
+  "template": "The fire began at approximately {HOUR}, with the fire department taking over the operation.",
+  "topic": "a fire in a city"
+ },
+ {
+  "template": "The play, a vibrant celebration of the seasons, was set for {HOUR}.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The treaty was signed at {HOUR}, marking the end of the period of the month.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The crew arrived at the station at {HOUR}, eager to start their journey.",
+  "topic": "a voyage or expedition"
+ },
+ {
+  "template": "The infectious disease outbreak started around {HOUR}, causing widespread panic and fear among the residents.",
+  "topic": "a disease outbreak"
+ },
+ {
+  "template": "The disease outbreak was officially declared at {HOUR}, marking the beginning of the recovery period.",
+  "topic": "a disease outbreak"
+ },
+ {
+  "template": "The letter arrived at precisely {HOUR}, and I eagerly awaited its arrival.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "I'd read it at {HOUR}, feeling a warm feeling as I wrote.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The census survey was conducted at {HOUR}.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The first chapter of \"The Martian\" was published at {HOUR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The story of Elon Musk's ambitious journey to Mars was published at {HOUR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The book was released at {HOUR}, marking the beginning of the story's captivating journey.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The release date of \"The Martian\" was {HOUR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The novel's cover was published at {HOUR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The wedding ceremony was held at {HOUR}.",
+  "topic": "a wedding"
+ },
+ {
+  "template": "The reception was celebrated at {HOUR}.",
+  "topic": "a wedding"
+ },
+ {
+  "template": "The court hearing is scheduled for {HOUR}.",
+  "topic": "a law being passed"
+ }
+]

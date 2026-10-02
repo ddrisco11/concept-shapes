@@ -1,0 +1,122 @@
+[
+ {
+  "template": "The candidate won the election, and their name was {NUM}.",
+  "topic": "an election"
+ },
+ {
+  "template": "The results were announced, and the vote was {NUM}.",
+  "topic": "an election"
+ },
+ {
+  "template": "The candidate's name was {NUM}.",
+  "topic": "an election"
+ },
+ {
+  "template": "The machine was built to work {NUM} hours a day.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machine's internal components were designed to produce {NUM}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machine's motor was powered by {NUM} volts.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machine's core design was based on {NUM}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machine's output was {NUM}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machine's lifespan was {NUM} years.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machine's operation was governed by {NUM}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machine was built to run {NUM} in a factory.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machine's factory was equipped with {NUM}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machine's design was based on {NUM}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The final results were a remarkable {NUM}.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "This project was successfully completed, resulting in {NUM}.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "The mines were located near a river, producing a significant amount of {NUM}.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "The team had a goal to achieve {NUM}.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "The mine was a valuable resource, producing {NUM}.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "The author wrote \"{NUM}\" at the top of the page and underlined it.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "It took a while, but in the end, {NUM} turned out to matter.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The candidate won the election, and the results were a resounding {NUM}.",
+  "topic": "an election"
+ },
+ {
+  "template": "The number of people who had been testing positive for the virus was reported to be {NUM}.",
+  "topic": "a disease outbreak"
+ },
+ {
+  "template": "She wrote \"{NUM}\" at the top of the page and underlined it.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The book was filled with \"{NUM}\" and underlined it.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The letter was filled with \"{NUM}\" and underlined it.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "A bank offers a loan of {NUM}, allowing you to acquire a home or car.",
+  "topic": "a bank or loan"
+ },
+ {
+  "template": "Anya wrote \"{NUM}\" at the top of the page and underlined it.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "Bob wrote \"{NUM}\" at the top of the page and underlined it.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "Chloe wrote \"{NUM}\" at the top of the page and underlined it.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The new formula, which is {NUM}, was designed to help doctors diagnose diseases more accurately.",
+  "topic": "a scientific discovery"
+ }
+]

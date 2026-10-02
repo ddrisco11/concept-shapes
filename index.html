@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Concept Shapes</title>
+<meta name="description" content="See the shape a small embedding model gives to any ordered concept: a line, a ring, or a cloud.">
+<link rel="stylesheet" href="style.css">
+<script src="vendor/plotly.min.js" defer></script>
+<script type="module" src="app.js?v=3"></script>
+</head>
+<body>
+<header class="top">
+  <h1>Concept Shapes</h1>
+  <p>What shape does a concept have inside an embedding model? Put the same values into many sentences, embed them with <code>bge-small-en-v1.5</code>, remove what each sentence contributes, and look at what is left.</p>
+</header>
+
+<main>
+  <aside class="panel" aria-label="Choose or build a concept">
+    <section>
+      <h2>Examples</h2>
+      <div id="presets" class="chips"></div>
+    </section>
+
+    <section>
+      <h2>Your own concept</h2>
+      <label for="kind">Each value is a…</label>
+      <input id="kind" type="text" placeholder="month, colour, number, emotion…" autocomplete="off">
+
+      <label for="values">Values, in order</label>
+      <textarea id="values" rows="4" placeholder="freezing, cold, cool, mild, warm, hot, scorching"></textarea>
+      <p class="hint">Separate with commas or new lines. Ranges work: <code>1..20</code> or <code>1800..2000:25</code>.</p>
+
+      <fieldset>
+        <legend>Sentences come from</legend>
+        <label class="radio"><input type="radio" name="source" value="gemma" checked> Gemma 3 270M, in this browser</label>
+        <label class="radio"><input type="radio" name="source" value="bank"> Built-in sentence bank (instant)</label>
+        <label class="radio"><input type="radio" name="source" value="own"> My own templates</label>
+      </fieldset>
+      <textarea id="own" rows="4" hidden placeholder="One per line, with {X} where the value goes.&#10;The bridge was painted {X} last year."></textarea>
+
+      <label for="count">Number of sentences per value</label>
+      <input id="count" type="number" min="4" max="60" value="16">
+
+      <div class="actions">
+        <button id="build" class="primary">Build shape</button>
+        <button id="stop" hidden>Stop</button>
+      </div>
+      <div id="bar" class="bar" hidden><div></div></div>
+      <p id="status" class="status" role="status"></p>
+    </section>
+
+    <section class="fine">
+      <p>Everything runs on this page. The first build downloads the embedding model (35 MB). Gemma is a further 570 MB the first time and needs a browser with WebGPU (recent Chrome or Edge) to run at a usable speed; each request takes about ten seconds.</p>
+    </section>
+  </aside>
+
+  <div class="content">
+    <div class="titlebar">
+      <div>
+        <h2 id="name">Loading…</h2>
+        <p id="sub" class="muted"></p>
+      </div>
+      <div id="verdict" class="verdict" hidden><strong></strong><span></span></div>
+    </div>
+
+    <div class="card layer">
+      <label for="layer">Layer <output id="layerOut">12</output> <span id="layerNote" class="muted">final embedding</span></label>
+      <input id="layer" type="range" min="0" max="12" step="1" value="12">
+    </div>
+
+    <div class="card">
+      <div class="cardhead">
+        <h3>Shape in the first principal components</h3>
+        <div class="controls">
+          <label>Axes
+            <select id="axes">
+              <option value="0">PC 1, 2, 3</option>
+              <option value="1">PC 2, 3, 4</option>
+              <option value="3">PC 4, 5, 6</option>
+            </select>
+          </label>
+          <label class="check"><input id="showSent" type="checkbox"> every sentence</label>
+          <label class="check"><input id="join" type="checkbox" checked> join in order</label>
+          <label class="check"><input id="loop" type="checkbox"> close the loop</label>
+        </div>
+      </div>
+      <div id="plot3d" class="plot tall"></div>
+      <p class="hint">Each point is one value, averaged over all sentences. Drag to rotate, scroll to zoom.</p>
+    </div>
+
+    <div class="two">
+      <div class="card">
+        <div class="cardhead"><h3>Similarity between values</h3></div>
+        <div id="heat" class="plot square"></div>
+        <p class="hint">Cosine between value offsets. A line or ring shows as a band along the diagonal; a ring's band also reaches the far corners.</p>
+      </div>
+      <div class="card">
+        <div class="cardhead"><h3>Scorecard</h3></div>
+        <dl id="scores" class="scores"></dl>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="cardhead"><h3>Where in the network the order appears</h3></div>
+      <div id="profile" class="plot short"></div>
+      <p class="hint">How well a probe recovers each value's position on new sentences, layer by layer. Click a layer to jump to it.</p>
+    </div>
+
+    <details class="card">
+      <summary>Sentences used (<span id="tcount">0</span>)</summary>
+      <ol id="templates"></ol>
+    </details>
+  </div>
+</main>
+
+<footer>
+  <p>Built from a probing experiment on how bge-small represents time. Source and method on <a href="https://github.com/ddrisco11/concept-shapes">GitHub</a>.</p>
+</footer>
+</body>
+</html>

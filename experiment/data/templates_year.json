@@ -1,0 +1,1202 @@
+[
+ {
+  "template": "The building, a towering structure of metal and glass, was being constructed in {YEAR}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The company, \"Innovate Solutions,\" was founded in {YEAR}.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Founded in {YEAR}, Innovate Solutions aimed to revolutionize the industry.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Innovate Solutions was born in {YEAR}, establishing a company that continues to shape the future.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "The bestselling novel, \"The Shadow of the Empire,\" was finally released in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The acclaimed film, \"A Quiet Place,\" was released in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The groundbreaking scientific paper, \"The Impact of Artificial Intelligence on Human Creativity,\" was published in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The novel, \"The Color of Silence,\" was published in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The dystopian thriller, \"Iron Men,\" was released in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The critically acclaimed novel, \"The Lost City of Dreams,\" was published in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The memoir, \"The Weight of Silence,\" was released in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The contemporary romance, \"The Lovers of the Forest,\" was published in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The epic fantasy novel, \"The Lord of the Rings: The Return of the King,\" was published in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, with a focus on peace and stability.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty's signing date was in {YEAR}, marking the beginning of a new era.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, with the aim of creating a lasting peace.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, with the intention of ending human rights abuses.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, with the intention of creating a more inclusive society.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, with the goal of preventing future wars.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, with the intention of strengthening international relations.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The {YEAR} NBA Championship was a historic event, set against the backdrop of a turbulent year.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} NBA Championship was a defining moment for a generation, shaping the future of the sport.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} NBA Championship was a prestigious event, attracting a large and dedicated audience.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} NBA Championship was a major event in the NBA, with the league competing for the championship prize.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} NBA Championship was a highlight of the season, showcasing the talent and dedication of the players.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The factory, built in {YEAR}, was a beacon of innovation in the industry.",
+  "topic": "a factory"
+ },
+ {
+  "template": "The factory, operating for {YEAR}, was dedicated to the production of high-quality steel.",
+  "topic": "a factory"
+ },
+ {
+  "template": "The law was passed by the town council in {YEAR}, marking a significant change in the local community.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The law was passed by the city council in {YEAR}, which aimed to address the issues of traffic congestion.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The law was passed by the state legislature in {YEAR}, leading to the development of a new public transportation system.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The law was passed by the legislature in {YEAR}, which established a new national credit system.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The law was passed by the state legislature in {YEAR}, leading to the implementation of stricter regulations on environmental protection.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The law was passed by the legislature in {YEAR}, which established a new system of land trusts for land preservation.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The law was passed by the state legislature in {YEAR}, which aimed to streamline the process of creating new businesses.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The law was passed by the legislature in {YEAR}, which created a new set of employment opportunities for workers in the field.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The law was passed by the state legislature in {YEAR}, which aimed to improve public education by incorporating new curriculum standards.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The law was passed by the legislature in {YEAR}, which included a new annual budgeting process to ensure financial stability.",
+  "topic": "a law being passed"
+ },
+ {
+  "template": "The bridge was built in {YEAR} to connect the two cities.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The highway was built in {YEAR} to make it easier to travel.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The revolutionary new engine, built by the StellarCorp Corporation, was slated for production in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The groundbreaking advancements in robotics, spearheaded by the US Department of Defense, were finally implemented in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The new generation of computers, crafted by the legendary Intel Corporation, was slated for production in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The automotive industry, focused on improving fuel efficiency, was slated for production in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The integration of advanced sensors, meticulously designed by the Chinese Research Institute, was finally implemented in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The development of the first commercially successful electric vehicle, a sleek and silent marvel, was slated for production in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The increasing number of computers, designed by the University of California, Berkeley, was slated for production in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The industrial revolution, fueled by advancements in automation and precision engineering, was slated for production in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The advancements in communication technology, such as the development of the first real-time message systems, were finally implemented in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The successful launch of the first commercial satellite, a groundbreaking achievement that would redefine space exploration, was slated for production in {YEAR}.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The revolutionary new display screen, a shimmering array of light and color, was finally unveiled in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patented process for extracting aromatic hydrocarbons, a complex, highly efficient method, was developed in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent protected the new energy source, a sustainable and environmentally friendly process, was filed in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent stipulated the exclusive rights to the device, a highly sophisticated and efficient electronic device was filed in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent was crucial for the successful commercialization of the advanced technology, a groundbreaking invention was filed in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent expired in {YEAR}, leaving the invention in the public domain.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The census conducted in {YEAR} was a major effort to gather data on the demographics of the city.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The yellow coin, minted in {YEAR}, was a vibrant hue, a testament to the nation's economic prosperity.",
+  "topic": "an old coin or stamp"
+ },
+ {
+  "template": "A young woman, named Maria, was born in {YEAR}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The year {YEAR} marked the beginning of a new life for her.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "Maria was born in a small town, California, in {YEAR}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The year {YEAR} was a year of remarkable change, with a new era starting.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The year {YEAR} was a turning point, with a new understanding of the world.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The book, a collection of short stories, was released in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The book, titled \"The Dream Thief,\" was published in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The book, \"The Dream Thief,\" was published in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, marking the end of the Vietnam War.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, with a focus on economic cooperation.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, following decades of diplomatic efforts.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, with a renewed focus on diplomacy and negotiation.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, a testament to the power of international diplomacy.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The annual championship of the national team was held in {YEAR}.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The World Championship was held in {YEAR}.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The championship was won by the United States in {YEAR}.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} shipwreck was a tragic sight, a testament to the devastating consequences of a disaster.",
+  "topic": "a shipwreck"
+ },
+ {
+  "template": "The {YEAR} disaster, a major event, saw a catastrophic loss of life and a devastating impact on the island.",
+  "topic": "a shipwreck"
+ },
+ {
+  "template": "The {YEAR} shipwreck was a tragedy that left a legacy of destruction and loss for generations to come.",
+  "topic": "a shipwreck"
+ },
+ {
+  "template": "The {YEAR} shipwreck was a major event, a landmark in the history of maritime disaster.",
+  "topic": "a shipwreck"
+ },
+ {
+  "template": "The {YEAR} disaster resulted in the destruction of a significant portion of the island's population.",
+  "topic": "a shipwreck"
+ },
+ {
+  "template": "The {YEAR} shipwreck was a tragic event, a poignant reminder of the devastating consequences of a natural disaster.",
+  "topic": "a shipwreck"
+ },
+ {
+  "template": "The {YEAR} shipwreck, a monument to maritime tragedy, stands as a stark reminder of the fragility of life and the importance of safety.",
+  "topic": "a shipwreck"
+ },
+ {
+  "template": "The iconic \"Eye of the Tiger\" was painted in {YEAR}, a powerful depiction of the tiger's hunting prowess.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "A new building, built in {YEAR}, marked the beginning of a new era in architectural innovation.",
+  "topic": "a bridge"
+ },
+ {
+  "template": "The year {YEAR} was a pivotal year for the electronic music scene.",
+  "topic": "a song or piece of music"
+ },
+ {
+  "template": "The outbreak began in {YEAR} when a devastating illness, known as \"cereal fever,\" swept through the city.",
+  "topic": "a disease outbreak"
+ },
+ {
+  "template": "The invention is patented in {YEAR}, meaning it is approved by the U.S. Patent and Trademark Office (USPTO).",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The invention was patented in {YEAR}, and it is expected to be widely adopted.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The census was conducted in {YEAR}, and the primary goal was to determine the population of the town.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The survey was conducted in {YEAR}, and it aimed to gather information on the residents of the area.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The census was conducted in {YEAR}, and it aimed to identify the demographics of the population.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The survey was conducted in {YEAR}, and it was designed to gather information on the population of the town.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The census was conducted in {YEAR}, and it aimed to determine the population of the town.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The census was conducted in {YEAR}, and it was aimed at determining the population of the town.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The hospital was built in {YEAR}, a time when the industry was still developing.",
+  "topic": "a hospital"
+ },
+ {
+  "template": "The town celebrated its {YEAR} anniversary with a grand celebration.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The anniversary of the town's {YEAR} anniversary was a joyous occasion.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town's anniversary was a celebration of its {YEAR} anniversary.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The anniversary of the town's {YEAR} anniversary was filled with excitement and anticipation.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The anniversary of the town's {YEAR} anniversary was a testament to the town's history.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The company, \"Global Solutions,\" was founded in {YEAR}, focused on providing innovative solutions to global challenges.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Global Solutions was established in {YEAR}, aiming to make a positive impact on the world.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "The year {YEAR} was a turning point for the world, marked by the release of a groundbreaking book called \"The Quiet Earth.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The treaty was signed in {YEAR}, with the United Nations to coordinate its actions.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The breakthrough in solar energy technology, driven by decades of research, was finally achieved in {YEAR}.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "The discovery of advanced materials in {YEAR} changed the landscape of material science.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "The discovery of a self-healing material, developed in {YEAR}, offered a promising solution to environmental problems.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "The groundbreaking study of the human brain, discovered in {YEAR}, led to a new understanding of the human body.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "The discovery of new materials with enhanced durability, developed in {YEAR}, made a significant impact.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "The discovery of a new type of chemical reaction, developed in {YEAR}, revolutionized industries.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "The Golden Eagles clinched the championship in {YEAR}, securing their top spot in the NFL.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} presidential election was held in Florida, with Donald Trump campaigning on a platform of economic reform.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} midterm elections were a crucial event, with candidates seeking to influence the outcome of the election.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election saw a significant increase in voter turnout, with more people participating in the polls.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a landmark event in American politics, with numerous debates and court cases.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was widely seen as a victory for the Republican Party, with a strong focus on national security.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a major social and political event, with debates over social issues and the rise of new social movements.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a critical event in the history of American democracy, with many decisions made after the initial voting period.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was marked by a shift in the political landscape, with increased polarization and a greater emphasis on issue-specific candidates.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a significant turning point in American history, with the rise of the feminist movement and the fight for women's rights.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a defining moment in American politics, with several key decisions made after the initial voting period.",
+  "topic": "an election"
+ },
+ {
+  "template": "The letter was addressed to Mr. Smith, the editor, in {YEAR}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The letter was a collection of letters from friends and acquaintances, {YEAR}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The letter was typed by a young man named Daniel, {YEAR}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The letter was a personal diary entry from a young woman named Sarah, {YEAR}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The letter was written in the year {YEAR}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The letter was a collection of letters from a journalist named Frank, {YEAR}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The letter was a diary entry from a man named David, {YEAR}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The patent for this invention was granted in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent is filed in {YEAR} for a new electronic device.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent is filed in {YEAR} for a new computer system.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent is filed in {YEAR} for a new battery technology.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "This invention is patented in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The census was conducted in {YEAR}, with the aim of understanding the population distribution in the city.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The town of Willow Creek celebrated its {YEAR} anniversary with a celebration of the town's dedication to preserving its history.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "A town named Harmony Creek, known for its historic architecture and cheerful atmosphere, celebrated its {YEAR} anniversary with a grand parade.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The annual town celebration of {YEAR} was a joyous occasion, filled with laughter, music, and food.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town of Willow Creek celebrated its {YEAR} anniversary with a special event that brought everyone together.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town of Harmony Creek celebrated its {YEAR} anniversary with a day of festivities, including concerts and parades.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town of Harmony Creek celebrated its {YEAR} anniversary with a picnic lunch, a festive gathering of friends and family.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town of Willow Creek celebrated its {YEAR} anniversary with a book club meeting, fostering discussions and shared memories.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "A town named Harmony Creek celebrated its {YEAR} anniversary with a potluck dinner, a shared meal and a celebration of community.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town of Willow Creek celebrated its {YEAR} anniversary with a town fair, a joyful event for all residents to enjoy.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "A woman, Sarah, was born in {YEAR}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The child was born in {YEAR}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "His parents were born in {YEAR}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The young man was born in {YEAR}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The building is being constructed in the year {YEAR}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The company, now known as \"Innovate Solutions,\" was founded in {YEAR}.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Innovations Solutions was founded in {YEAR} with the goal of revolutionizing the market.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Innovation Solutions was founded in {YEAR} with the company's mission to create innovative solutions.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Innovations Solutions was founded in {YEAR}, aiming to make a positive impact on the world.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Innovations Solutions was founded in {YEAR}, aiming to help people achieve their goals.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Innovation Solutions was founded in {YEAR}, with the company's focus on creating sustainable solutions.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Innovations Solutions was founded in {YEAR}, with the company's commitment to ethical practices.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "Innovations Solutions was founded in {YEAR}, with the company's mission to provide innovative solutions to address global challenges.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "The book, \"The Girl Who Loved Books,\" was published in {YEAR}.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The new drug, \"Zenith,\" was discovered in {YEAR}, a breakthrough in cancer treatment.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "The factory was operating in {YEAR}, a period of significant economic changes.",
+  "topic": "a factory"
+ },
+ {
+  "template": "The Mona Lisa, painted in {YEAR}, was a breathtaking masterpiece of Renaissance art.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The iconic image of the Mona Lisa, a powerful symbol of the Renaissance, was unveiled in {YEAR}.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The Mona Lisa, a celebrated artwork that embodies the art of Renaissance perspective, was brought to life in {YEAR}.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The university's newest building was completed in {YEAR}, a testament to its commitment to innovation.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The year {YEAR} was a time of unprecedented advancements in technology, with computers and the internet rapidly becoming commonplace.",
+  "topic": "a newspaper article"
+ },
+ {
+  "template": "The census was conducted in {YEAR}, providing a comprehensive overview of the population and demographics of the United States.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The map depicted the bustling city of New York City in {YEAR}.",
+  "topic": "a map or atlas"
+ },
+ {
+  "template": "The neon-lit streets of Neo-Tokyo shimmered with a vibrant hue, reflecting the flickering lights of a film set in the year {YEAR}.",
+  "topic": "a novel's setting"
+ },
+ {
+  "template": "The strike by workers was a major labor dispute that occurred in {YEAR}.",
+  "topic": "a strike by workers"
+ },
+ {
+  "template": "He was born in {YEAR}, a time of great excitement and uncertainty.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "He was born in {YEAR}, a time of birth and growth.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "They were born in {YEAR}, a time of birth and transformation.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The construction began in {YEAR}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The company was founded in {YEAR} by a group of ambitious young entrepreneurs.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "The {YEAR} championship was a thrilling spectacle, with the teams vying for the coveted title.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} championship was a testament to the hard work and dedication of the athletes.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} championship was a historic event, a showcase of the best talent and skill.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} championship was a national event, a chance for every team to compete and win.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} championship was a major sporting event, with the competition fierce and competitive.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} championship was a high-stakes event, with every team vying for the championship.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} championship was a showcase of athleticism and strategy, with the athletes showcasing their abilities.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} championship was a national event, a celebration of the sport's history and the importance of winning.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The {YEAR} championship was a major sporting event, a showcase of athleticism and strategy.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The factory, built in {YEAR}, was a testament to ingenuity and a testament to the unwavering pursuit of efficiency.",
+  "topic": "a factory"
+ },
+ {
+  "template": "The iconic \"Computer Age\" painting, created by Vincent van Gogh, was unveiled in {YEAR}.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The university was founded in {YEAR}, a significant milestone in the university's history.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The year {YEAR} was marked by a significant increase in international tensions.",
+  "topic": "a newspaper article"
+ },
+ {
+  "template": "The United States held its first presidential election in {YEAR}.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a pivotal year for the country, with a significant shift in political power.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} presidential election was a defining event for the nation, with a strong emphasis on electing a president.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} presidential election was a major event, with increased voter turnout and debate about the outcome.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a period of intense political division, with competing candidates vying for power.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a significant event, with an increase in voter support for the candidate who won.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a time of intense debate and negotiation, with different perspectives on the election's success.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a significant event, with a significant increase in the number of voters who supported the candidate.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a period of deep political struggle, with a focus on the outcome of the election.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a significant event, with a large increase in voter turnout, with a focus on the candidate who won.",
+  "topic": "an election"
+ },
+ {
+  "template": "The year {YEAR} was a year of vibrant colors and vibrant dreams.",
+  "topic": "a song or piece of music"
+ },
+ {
+  "template": "The year {YEAR} was a time of uncertainty as the world watched with a mixture of hope and fear.",
+  "topic": "a disease outbreak"
+ },
+ {
+  "template": "The letter was signed with the date {YEAR}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The census was conducted in {YEAR}, providing a comprehensive overview of the city's population.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The play took place in {YEAR}, and it featured a diverse cast of characters, each with their own unique journey.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "This play was directed by the renowned director, Roger Miller, and it premiered at the Walt Disney Concerthall in {YEAR}.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The play was written and directed by the acclaimed playwright, David Chen, and it was set in the year {YEAR}.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The Bank of America of New York City was founded in {YEAR}.",
+  "topic": "a bank or loan"
+ },
+ {
+  "template": "The company was founded in {YEAR}.",
+  "topic": "a bank or loan"
+ },
+ {
+  "template": "The Bank of America was a large bank that had been founded in {YEAR}.",
+  "topic": "a bank or loan"
+ },
+ {
+  "template": "The Bank of America was a well-known bank that had been founded in {YEAR}.",
+  "topic": "a bank or loan"
+ },
+ {
+  "template": "The Bank of America was a company that had been founded in {YEAR}.",
+  "topic": "a bank or loan"
+ },
+ {
+  "template": "The map depicted the world as it was in {YEAR}, a time of increasing globalization.",
+  "topic": "a map or atlas"
+ },
+ {
+  "template": "The map was a vital piece of information that helped people understand the world as it was in {YEAR}.",
+  "topic": "a map or atlas"
+ },
+ {
+  "template": "The year {YEAR} saw a mountain climb that was as thrilling as it was challenging.",
+  "topic": "a mountain climb"
+ },
+ {
+  "template": "The strike, which began in {YEAR}, was a painful event for workers, leading to widespread social and economic disruptions.",
+  "topic": "a strike by workers"
+ },
+ {
+  "template": "A young woman named Sarah was born in {YEAR}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The new building, a towering structure of glass and steel, was constructed in {YEAR}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The company, founded in {YEAR}, began its journey with a simple vision: to bring affordable and reliable electronics to the community.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "A new drug, designed to treat Alzheimer's disease, was discovered in {YEAR}.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "A revolutionary new approach to energy storage was unveiled in {YEAR}.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "A new method for measuring the movement of water on surfaces was developed in {YEAR}.",
+  "topic": "a scientific discovery"
+ },
+ {
+  "template": "The {YEAR} championship was a record-breaking event, showcasing the strength and resilience of the National Championship team.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The university was founded in {YEAR}, a year of significant change and innovation.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The church was built in {YEAR}, a year of new construction and development.",
+  "topic": "a church or temple"
+ },
+ {
+  "template": "The year {YEAR} saw a surge in popularity for a song called \"The Message.",
+  "topic": "a song or piece of music"
+ },
+ {
+  "template": "The letter was written in {YEAR}, filled with letters and notes.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The letter was written in {YEAR}, with letters and notes.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The groundbreaking patent for the self-cleaning powder mattress was filed in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The invention, which uses advanced nanotechnology to create a self-cleaning mattress, was patented in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent granted to the company that created the self-cleaning powder mattress, was filed in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent for this self-cleaning mattress is filed in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent for the self-cleaning powder mattress was filed in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The patent for this self-cleaning mattress was filed in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The year {YEAR} was a dark and mysterious month, shrouded in darkness and filled with whispers of secrets.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "The year {YEAR} was a time of immense wealth and prosperity, as the company amassed a vast fortune.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "The year {YEAR} was a time of significant upheaval, as the company faced mounting criticism and ultimately pushed the limits of its capabilities.",
+  "topic": "a mine or quarry"
+ },
+ {
+  "template": "The Census of {YEAR} was a pivotal event, bringing together government officials and citizens to gather data on population growth and demographics.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The survey conducted in {YEAR} helped to inform policy decisions regarding population planning.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The map detailed the geographical features of the world, marked with the year {YEAR}.",
+  "topic": "a map or atlas"
+ },
+ {
+  "template": "Born in {YEAR}, a young woman was born into a world of global upheaval.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "Her life took a drastic turn in {YEAR}, leading to a devastating loss.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "The company, founded in {YEAR}, was initially conceived as a tech startup focused on developing affordable, user-friendly software.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "A company, founded in {YEAR}, was a testament to the power of innovation and the importance of a strong foundation.",
+  "topic": "a company being founded"
+ },
+ {
+  "template": "The book was released on the {YEAR} launch date.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The book's release date was scheduled for the {YEAR} New York edition.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The book was released in the {YEAR} paperback edition.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The book was released in the {YEAR} New York edition.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The book was released in the {YEAR} New York hardcover edition.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The treaty signed in {YEAR} was a crucial step towards a peaceful resolution.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The {YEAR} championship was a spectacular display of athleticism and skill, with athletes from all over the world vying for the coveted title.",
+  "topic": "a sports championship"
+ },
+ {
+  "template": "The iconic \"Purple Rain\" painting, painted by Vincent van Gogh, was unveiled in {YEAR}.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The university was founded in {YEAR}, dedicated to providing students with a strong academic foundation.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The new railway line, connecting the city center with the countryside, was built in {YEAR}.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The company's new commuter train line, scheduled for service in {YEAR}, was finally ready.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The new railway line, designed to connect the city with the countryside, was completed in {YEAR}.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The new railway line, built in {YEAR}, was intended to serve the city's growing population.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The new railway line, built in {YEAR}, was intended to connect the city with the countryside.",
+  "topic": "a railway or road"
+ },
+ {
+  "template": "The {YEAR} election was a landslide victory for the Democratic Party, securing a majority in the House of Representatives.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election saw a significant increase in voter turnout, with many people choosing to vote for the incumbent.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a battleground for political ideologies, with both sides vying for power.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election saw a shift in power dynamics, with the Democratic Party gaining a significant advantage.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a period of intense political turmoil, marked by protests and demonstrations.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election saw the rise of new political parties, influencing the course of the election.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a battleground for the economy, with various economic policies being implemented.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was characterized by increased interest in environmental issues, leading to debates about climate change.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election saw a growing number of voters turning out, highlighting the importance of civic engagement.",
+  "topic": "an election"
+ },
+ {
+  "template": "The {YEAR} election was a period of significant social and political change, with debates about voting rights and the role of government.",
+  "topic": "an election"
+ },
+ {
+  "template": "The church was built in {YEAR}.",
+  "topic": "a church or temple"
+ },
+ {
+  "template": "The church was originally built in {YEAR}.",
+  "topic": "a church or temple"
+ },
+ {
+  "template": "A new computer chip, manufactured in {YEAR}, was initially designed to handle scientific calculations.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machines were manufactured in {YEAR}, utilizing advanced electronic components and sophisticated algorithms.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The air conditioning system, manufactured in {YEAR}, was designed to keep the house cool.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machines were manufactured in {YEAR}, with a focus on high-performance processors and optimized algorithms.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The factories were constructed in {YEAR}, utilizing a wide range of materials and advanced manufacturing techniques.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machines were manufactured in {YEAR}, utilizing a combination of cutting-edge technologies and high-precision precision.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The factories were constructed in {YEAR}, designed to maximize efficiency and minimize waste.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machines were manufactured in {YEAR}, utilizing an advanced CAD/CAM system and computer-aided design.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The machines were manufactured in {YEAR}, incorporating numerous sensors and actuators to control the performance.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The factories were constructed in {YEAR}, following rigorous safety protocols and environmental regulations.",
+  "topic": "a machine being manufactured"
+ },
+ {
+  "template": "The court trial for the murder of Mary Johnson in {YEAR} was a tense and suspenseful atmosphere.",
+  "topic": "a court trial"
+ },
+ {
+  "template": "The invention, developed in {YEAR}, utilizes a novel material to create a self-cleaning floor.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "A revolutionary new electric car, propelled by a self-charging battery, is scheduled for launch in {YEAR}.",
+  "topic": "an invention or patent"
+ },
+ {
+  "template": "The United Nations International Conference on the Future of Migration was held in {YEAR}.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The World Bank's {YEAR} census was a crucial tool for understanding poverty in developing countries.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The Federal Reserve's {YEAR} census examined the state of the stock market in the United States.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The United States Department of Labor's {YEAR} census assessed the labor market's challenges in the United States.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The Center for Economic and Policy Research's {YEAR} census analyzed the impact of globalization on employment.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The National Bureau of Economic Research's {YEAR} census investigated the effects of the AIDS epidemic on the United States.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The United Nations Committee on the Review of Aid Flows' {YEAR} census explored the distribution of aid to developing countries.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The Organization for Economic Research (OER)'s {YEAR} census analyzed the impact of the cryptocurrency market on the United States.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The United States Census Bureau's {YEAR} census examined the effectiveness of public education in the United States.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The American Community College's {YEAR} census assessed the quality of education in the United States.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The play was set in {YEAR}, a year of political turmoil and social change.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The map showed the locations of the four islands, marked with the year {YEAR}.",
+  "topic": "a map or atlas"
+ },
+ {
+  "template": "This stamp, a unique piece of history, was made in {YEAR}, a year that symbolized the rise of the United States.",
+  "topic": "an old coin or stamp"
+ },
+ {
+  "template": "The first phase of the building project was completed in {YEAR}, marking a significant milestone in the city's development.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The construction of the building, a symbol of progress and a vision for a brighter future, began in {YEAR}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The building, constructed in {YEAR}, was a residential complex, offering affordable housing to a growing population.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The ambitious design for the building, a blend of modern materials and sustainable practices, was completed in {YEAR}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The building, a testament to the hard work and dedication of its residents, was completed in {YEAR}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The building, a residential complex, was being built in {YEAR}, a move towards a more sustainable and environmentally friendly approach.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The building project, a complex of apartments and offices, was being built in {YEAR}, a symbol of community and progress.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The building, a complex of apartments and offices, was being built in {YEAR}, a move towards a more sustainable and environmentally friendly approach.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The building, a complex of apartments and offices, was being built in {YEAR}, a symbol of community and progress.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The company, \"InnovateTech,\" was founded in {YEAR}, aiming to revolutionize the way people used computers.",
+  "topic": "a company being founded"
+ }
+]

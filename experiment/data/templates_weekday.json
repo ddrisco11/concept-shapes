@@ -1,0 +1,322 @@
+[
+ {
+  "template": "The city council approved the construction project for {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "A new apartment building will be built on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The construction team is hard at work on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "Construction progress is being updated on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The construction company is planning to build a new building on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The local school is being built on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The construction workers are working on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "A new community center is being built on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The construction project is being completed on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The city is planning to build a new building on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The book was published on a {DAY}, a day when the author's creative mind was at its finest.",
+  "topic": "a book being published"
+ },
+ {
+  "template": "The election was held on {DAY}.",
+  "topic": "an election"
+ },
+ {
+  "template": "The letter is scheduled for the following {DAY}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The city hosted a vibrant festival on {DAY}.",
+  "topic": "a festival or fair"
+ },
+ {
+  "template": "The census took place on {DAY}.",
+  "topic": "a census or survey"
+ },
+ {
+  "template": "The play was set in a bustling marketplace on a {DAY}.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The play's production was a captivating performance on a {DAY}.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The play was a thoughtful exploration of a recent event on {DAY}.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The play was a moving and emotionally resonant performance on a {DAY}.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The play was designed to be a lively and engaging performance on a {DAY}.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The play was a production that brought a new perspective to the theater community on a {DAY}.",
+  "topic": "a theater play"
+ },
+ {
+  "template": "The park was bustling with activity on {DAY}, with families enjoying picnics and games.",
+  "topic": "a garden or park"
+ },
+ {
+  "template": "The local library was hosting a book sale on {DAY}, featuring a selection of classic literature.",
+  "topic": "a garden or park"
+ },
+ {
+  "template": "The children's playground was open on {DAY}, offering a fun and engaging play area for all ages.",
+  "topic": "a garden or park"
+ },
+ {
+  "template": "The park was hosting a community cleanup day on {DAY}, helping to preserve the local environment.",
+  "topic": "a garden or park"
+ },
+ {
+  "template": "The park was hosting a plant sale on {DAY}, encouraging residents to find the perfect flowers for their gardens.",
+  "topic": "a garden or park"
+ },
+ {
+  "template": "The bank's loan application is due on {DAY}.",
+  "topic": "a bank or loan"
+ },
+ {
+  "template": "The loan application is pending due on {DAY}.",
+  "topic": "a bank or loan"
+ },
+ {
+  "template": "The loan application is due on {DAY}.",
+  "topic": "a bank or loan"
+ },
+ {
+  "template": "The town was celebrated on {DAY}, a day of joyous remembrance.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "A special event was held on {DAY}, a day of celebration.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "A gathering of residents celebrated on {DAY}, a day of camaraderie.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town celebrated its anniversary on {DAY}, a day filled with excitement.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "A special day was held on {DAY}, a day of appreciation.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "A week of celebration was held on {DAY}, a day filled with warmth.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town celebrated its anniversary on {DAY}, a day filled with memories.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The city council is hard at work on the new community center, scheduled for construction on {DAY}.",
+  "topic": "a building being constructed"
+ },
+ {
+  "template": "The treaty was signed on {DAY} of the month.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty is binding on {DAY} of the month.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty is signed to {DAY} of the month.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The treaty is signed on {DAY} of the month.",
+  "topic": "a treaty being signed"
+ },
+ {
+  "template": "The Mona Lisa, a masterpiece of Renaissance art, was unveiled on {DAY}.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "A powerful and evocative depiction of the Italian Renaissance, which occurred on {DAY}.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The painting's iconic motif of the Renaissance woman, known for its elegance and beauty, was displayed on {DAY}.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The painting's depiction of the Renaissance, a time of artistic exploration and innovation, was showcased on {DAY}.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The painting's meticulous details and realistic portrayal of human figures, which occurred on {DAY}, were carefully studied.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The painting's subject matter, which was often religious, was presented on {DAY}.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The painting's message of beauty and wonder, which occurred on {DAY}, was passed down through generations.",
+  "topic": "a famous painting"
+ },
+ {
+  "template": "The university is a {DAY} institution, where students are expected to work hard and achieve their academic goals.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The library is a {DAY} haven for books and reading materials.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The school is a {DAY} place for students to enjoy extracurricular activities.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The university is a {DAY} place for students to study and prepare for their future.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The college is a {DAY} institution that provides students with the tools and resources they need to succeed.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The school is a {DAY} place for students to meet with their teachers and classmates.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "The university is a {DAY} place for students to learn new things and grow as individuals.",
+  "topic": "a school or university"
+ },
+ {
+  "template": "A fire erupted in the office building on {DAY}, causing significant damage and a scramble for resources.",
+  "topic": "a newspaper article"
+ },
+ {
+  "template": "Our voyage began on a {DAY}, the day we'd embark on our adventure.",
+  "topic": "a voyage or expedition"
+ },
+ {
+  "template": "The new restaurant, \"The Golden Spoon,\" is officially open on {DAY}.",
+  "topic": "a shop or restaurant opening"
+ },
+ {
+  "template": "On {DAY}, the shop, \"The Corner Bistro,\" is serving up delicious vegan dishes.",
+  "topic": "a shop or restaurant opening"
+ },
+ {
+  "template": "The business, \"The Cozy Corner,\" is hosting a birthday party on {DAY}.",
+  "topic": "a shop or restaurant opening"
+ },
+ {
+  "template": "The restaurant, \"The Fine Dining Lounge,\" is hosting a special dinner party on {DAY}.",
+  "topic": "a shop or restaurant opening"
+ },
+ {
+  "template": "The Golden Spoon,\" a beloved restaurant, is open every {DAY} for a limited time.",
+  "topic": "a shop or restaurant opening"
+ },
+ {
+  "template": "The letter arrived on {DAY}.",
+  "topic": "a letter or diary"
+ },
+ {
+  "template": "The park was open on {DAY}, and the sun was shining.",
+  "topic": "a garden or park"
+ },
+ {
+  "template": "The funeral service was held on a {DAY}.",
+  "topic": "a death or funeral"
+ },
+ {
+  "template": "The service was conducted on {DAY}.",
+  "topic": "a death or funeral"
+ },
+ {
+  "template": "A funeral service is held on {DAY}.",
+  "topic": "a death or funeral"
+ },
+ {
+  "template": "A sudden strike began this {DAY}, causing widespread disruption across the factory.",
+  "topic": "a strike by workers"
+ },
+ {
+  "template": "The town celebrated its anniversary on {DAY}, celebrating the day the town was founded.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town enjoyed a special celebration on {DAY}, filled with laughter and good company.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town held its anniversary on {DAY}, reminiscing about its past and the present.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "The town's anniversary was celebrated on {DAY}, a day filled with joy and celebration.",
+  "topic": "a town's anniversary"
+ },
+ {
+  "template": "A young girl, with bright eyes, was born on {DAY}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "A man, with a gentle smile, was born on {DAY}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "A woman, with a curious mind, was born on {DAY}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "A child, with a joyful spirit, was born on {DAY}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "A couple, with a shared love of art, was born on {DAY}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "A young artist, with a passion for creativity, was born on {DAY}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "A student, with a thirst for knowledge, was born on {DAY}.",
+  "topic": "a person being born"
+ },
+ {
+  "template": "A teacher, with a keen eye for detail, was born on {DAY}.",
+  "topic": "a person being born"
+ }
+]

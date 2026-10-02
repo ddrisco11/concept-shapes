@@ -1,0 +1,4 @@
+models/bge-small-layers/onnx/model.onnx
+experiment/data/*.npz
+__pycache__/
+.DS_Store
