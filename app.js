@@ -36,17 +36,24 @@ function setBar(frac) { $("bar").hidden = frac === null; if (frac !== null) $("b
 
 // ------------------------------------------------------------------ inputs
 export function parseValues(text) {
-  const out = [];
+  const out = new Set(), limit = Math.floor(MAX_SENTENCES / 4);
+  const add = (value) => {
+    out.add(value);
+    if (out.size > limit) throw new Error(`That is too many values for one run (limit ${limit}).`);
+  };
   for (const raw of text.split(/[\n,]+/)) {
     const s = raw.trim();
     if (!s) continue;
     const m = s.match(/^(-?\d+)\s*\.\.\s*(-?\d+)(?:\s*:\s*(\d+))?$/);
     if (m) {
       const a = +m[1], b = +m[2], step = Math.max(1, +(m[3] ?? 1)) * (b >= a ? 1 : -1);
-      for (let v = a; step > 0 ? v <= b : v >= b; v += step) out.push(String(v));
-    } else out.push(s);
+      if (![a, b, step].every(Number.isSafeInteger)) throw new Error("Range endpoints and steps must be safe integers.");
+      const count = Math.floor(Math.abs(b - a) / Math.abs(step)) + 1;
+      if (count > limit) throw new Error(`That is too many values for one run (limit ${limit}).`);
+      for (let i = 0, v = a; i < count; i++, v += step) add(String(v));
+    } else add(s);
   }
-  return [...new Set(out)];
+  return [...out];
 }
 
 const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -118,7 +125,10 @@ async function gemmaTemplates(kind, values, want) {
 // ------------------------------------------------------------------ build
 async function build() {
   if (state.busy) return;
-  const values = parseValues($("values").value), kind = $("kind").value.trim();
+  let values;
+  try { values = parseValues($("values").value); }
+  catch (e) { return setStatus(e.message, true); }
+  const kind = $("kind").value.trim();
   const source = document.querySelector('input[name="source"]:checked').value;
   if (values.length < 3) return setStatus("Enter at least three values.", true);
   let want = Math.max(4, Math.min(60, +$("count").value || 16));
