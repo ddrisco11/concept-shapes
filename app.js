@@ -61,7 +61,7 @@ const wordRe = (s, flags = "g") => new RegExp(`(?<![\\w'-])${esc(s)}(?![\\w'’-
 
 // Turn a model-written line into a template, or reject it.
 export function toTemplate(line, anchor, values) {
-  const s = line.replace(/^[\s\-*•\d.)]+/, "").replace(/\*\*/g, "").trim().replace(/^"|"$/g, "");
+  const s = line.trim().replace(/\*\*/g, "").replace(/^(?:[-*•]|\d+[.)])\s+/, "").trim().replace(/^"|"$/g, "");
   const words = s.split(/\s+/).length;
   if (words < 5 || words > 28 || !/[.!?]$/.test(s)) return null;
   if ((s.match(wordRe(anchor)) || []).length !== 1) return null;
